@@ -1,1 +1,0 @@
-# nfactorial_entry
